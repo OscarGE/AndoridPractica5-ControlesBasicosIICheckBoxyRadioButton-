@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Practica5_ControlesBasicosII(CheckBoxyRadioButton)</string>
+    <string name="selecciona">Seleccioname</string>
+    <string name="opc1">Opción 1</string>
+    <string name="opc2">Opción 2</string>
+    <string name="strCero">0</string>
+    <string name="strKg">Kilogramo (Kg)</string>
+    <string name="strG">Gramo (g)</string>
+    <string name="strMg">Miligramo (mg)</string>
+    <string name="strConvertir">Convertir a</string>
+    <string name="strHintEntrada">Ingresa un peso</string>
+    <string name="strHintSalida">Conversión</string>
+</resources>
